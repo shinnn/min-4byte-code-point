@@ -1,0 +1,34 @@
+{
+  "name": "min-4byte-code-point",
+  "description": "The minimum code point of 4 byte characters in UTF-8",
+  "keywords": [
+    "minimum",
+    "min",
+    "code",
+    "point",
+    "code-point",
+    "const",
+    "constant",
+    "unicode",
+    "0x10000",
+    "utf8"
+  ],
+  "main": "browser.js",
+  "moduleType": "globals",
+  "homepage": "https://github.com/shinnn/min-4byte-code-point",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shinnn/min-4byte-code-point.git"
+  },
+  "authors": [
+    "Shinnosuke Watanabe (https://github.com/shinnn)"
+  ],
+  "license": "Unlicense",
+  "ignore": [
+    "**/.*",
+    "*.js",
+    "*.json",
+    "*.yml",
+    "node_modules"
+  ]
+}
